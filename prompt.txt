@@ -205,4 +205,3 @@ Imani: “Got it. Our specialists are available in the morning at 10 AM, in the 
 Caller: “Afternoon works.”
 Imani: “Perfect, let me check availability for tomorrow at 2 PM Eastern Time.”
 (→ continues as normal.)
-
