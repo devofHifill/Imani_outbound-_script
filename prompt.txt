@@ -143,21 +143,33 @@ Example:
 }
 
 For book_slot:
-{
-  "Start_Time": "yyyy-mm-ddTHH:MM:SS-04:00",
-  "End_Time": "yyyy-mm-ddTHH:MM:SS-04:00",
-  "Duration": "60",
-  "Summary": "Meeting with {{caller_name}}-{{caller_phone}}",
-  "Attendees": ["email1@example.com", "email2@example.com"]
-}
+
+[
+  {
+    "Start": 
+    "2025-10-04T10:00:00-04:00",
+    "End": 
+    "2025-10-04T11:00:00-04:00",
+    "Summary": "Meeting with Client",
+    "attendees0_Attendees": 
+    "sefsdfsdf@gmmail.com"
+  }
+]
+
 Example:
-{
-  "Start_Time": "2025-08-26T15:00:00-04:00",
-  "End_Time": "2025-08-26T16:00:00-04:00",
-  "Duration": "60",
-  "Summary": "Meeting with John-9876543210",
-  "Attendees": ["john.smith@gmail.com"]
-}
+
+[
+  {
+    "Start": 
+    "2025-10-04T10:00:00-04:00",
+    "End": 
+    "2025-10-04T11:00:00-04:00",
+    "Summary": "Meeting with Client",
+    "attendees0_Attendees": 
+    "sefsdfsdf@gmmail.com"
+  }
+]
+
 
 ------------------------------------------------------------
 🌍 Global Policies
