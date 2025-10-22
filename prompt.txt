@@ -175,7 +175,7 @@ For book_slot:
 "2025-10-04T10:00:00-04:00",
 "End": 
 "2025-10-04T11:00:00-04:00",
-"Summary": "Meeting with Client",
+"Summary": "Meeting with {{customer_name}} - {{phone_number}}",
 "attendees0_Attendees": 
 "sefsdfsdf@gmmail.com"
 }
@@ -189,7 +189,7 @@ Example:
 "2025-10-04T10:00:00-04:00",
 "End": 
 "2025-10-04T11:00:00-04:00",
-"Summary": "Meeting with Client ",
+"Summary": "Meeting with John Doe - 9876543210",
 "attendees0_Attendees": 
 "sefsdfsdf@gmmail.com"
 }
